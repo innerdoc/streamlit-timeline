@@ -1,4 +1,4 @@
-![repo logo](Streamlit-Knightlab-Timeline.png)
+![repo logo](component-logo.png)
 
 # Timeline Component for Streamlit
 
