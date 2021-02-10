@@ -43,7 +43,7 @@
       },
       {
         "media": {
-          "url": "https://github.com/innerdoc/streamlit-timeline/raw/main/Streamlit-Knightlab-Timeline.png",
+          "url": "https://github.com/innerdoc/streamlit-timeline/raw/main/component-logo.png",
           "caption": "github/innerdoc (<a target=\"_blank\" href='https://www.github.com/innerdoc/'>credits</a>)"
         },
         "start_date": {
@@ -52,7 +52,7 @@
         },
         "text": {
           "headline": "Streamlit TimelineJS component",
-          "text": "Started with a demo on https://www.innerdoc.com/nlp-timeline/ . Then made a component of it."
+          "text": "Started with a demo on https://www.innerdoc.com/nlp-timeline/ . <br>Then made a <a href='https://github.com/innerdoc/streamlit-timeline'>Streamlit component</a> of it. <br>Then made a <a href='https://pypi.org/project/streamlit-timeline/'>PyPi package</a> for it."
         }
       }
     ]

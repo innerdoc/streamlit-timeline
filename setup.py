@@ -16,7 +16,7 @@ def readme() -> str:
 
 setuptools.setup(
     name="streamlit-timeline",
-    version="0.0.1",
+    version="0.0.2",
     author="Rob van Zoest",
     author_email="",
     description="A Streamlit custom component to display a timeline",
@@ -24,6 +24,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/innerdoc/streamlit-timeline",
     project_urls={
+        "Github":"https://github.com/innerdoc/streamlit-timeline",
         "Homepage":"https://www.innerdoc.com",
         "Twitter":"https://twitter.com/innerdoc_nlp",
     },
