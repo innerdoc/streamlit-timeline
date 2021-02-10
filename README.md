@@ -1,11 +1,8 @@
 ![repo logo](Streamlit-Knightlab-Timeline.png)
 
-
 # Timeline Component for Streamlit
 
-A simple component to display a timeline in Streamlit apps. It integrates [Knightlab's TimelineJS](https://timeline.knightlab.com). For example:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N61ed-XvPR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A simple component to display a timeline in Streamlit apps. It integrates [Knightlab's TimelineJS](https://timeline.knightlab.com).
 
 
 ## Installation
@@ -42,3 +39,9 @@ timeline(data, height=800)
 ## Parameters
 
 The `timeline()` function accepts a string or a dict, as long as it's in the [TimelineJS json format](https://timeline.knightlab.com/docs/json-format.html). The optional heigth of the visualization is in px.
+
+
+## Preview
+You can also check the [preview video](https://www.youtube.com/embed/N61ed-XvPR4) or go to the demo [A History of Natural Language Processing](https://github.com/innerdoc/nlp-history-timeline).
+
+[![timeline example](example.png)](https://www.youtube.com/embed/N61ed-XvPR4)

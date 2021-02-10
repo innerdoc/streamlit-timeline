@@ -23,6 +23,10 @@ setuptools.setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/innerdoc/streamlit-timeline",
+    project_urls=[
+        "https://www.innerdoc.com",
+        "https://twitter.com/innerdoc_nlp"
+    ],
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
