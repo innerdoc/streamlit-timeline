@@ -1,4 +1,4 @@
-![repo logo](component-logo.png)
+![repo logo](https://github.com/innerdoc/streamlit-timeline/raw/main/component-logo.png)
 
 # Timeline Component for Streamlit
 
@@ -44,4 +44,4 @@ The `timeline()` function accepts a string or a dict, as long as it's in the [Ti
 ## Preview
 You can also check the [preview video](https://www.youtube.com/embed/N61ed-XvPR4) or go to the demo [A History of Natural Language Processing](https://github.com/innerdoc/nlp-history-timeline).
 
-[![timeline example](example.png)](https://www.youtube.com/embed/N61ed-XvPR4)
+[![timeline example](https://github.com/innerdoc/streamlit-timeline/raw/main/example.png)](https://www.youtube.com/embed/N61ed-XvPR4)
